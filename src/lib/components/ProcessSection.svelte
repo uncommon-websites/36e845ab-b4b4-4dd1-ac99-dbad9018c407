@@ -4,30 +4,30 @@
   const steps = [
     {
       id: "discover",
-      title: "Discover Novel Opportunities",
-      text: "The right problem is the one worth solving. We quickly uncover actionable opportunities through data and business insights, ensuring that every discovery is grounded in what matters most for your business and your users.",
-      tags: ["Business & Market Research", "Data Driven Insights", "UX Audits", "Customer Journey Mapping", "Brand Perception Analysis", "Technical Assessment"],
+      title: "Analyze Your Data Landscape",
+      text: "We start by understanding your current PR operations and data infrastructure. Through comprehensive audits and stakeholder interviews, we identify gaps, opportunities, and quick wins that will deliver immediate value while building toward long-term transformation.",
+      tags: ["Data Infrastructure Audit", "Campaign Performance Analysis", "Tool Stack Assessment", "Workflow Mapping", "Stakeholder Interviews", "Competitive Benchmarking"],
       graphic: "lines"
     },
     {
       id: "envision",
-      title: "Envision Innovative Strategies",
-      text: "Great strategies don't just come from ideas—they come from clear, actionable plans. We create pragmatic roadmaps that balance ambition with feasibility, focusing on what will drive immediate and long-term impact for both business and users.",
-      tags: ["CX & Product Strategy", "Vision & Roadmapping", "Value Proposition Design", "Northstar Metric Framework", "Brand Strategy & Positioning", "Technical Solution Design"],
+      title: "Design AI-Powered Solutions",
+      text: "We craft custom AI strategies tailored to your agency's unique needs. From sentiment analysis to predictive modeling, we design solutions that integrate seamlessly with your existing workflows while delivering measurable improvements in campaign performance.",
+      tags: ["AI Strategy Development", "Technology Roadmapping", "Integration Planning", "ROI Modeling", "Risk Assessment", "Proof of Concept Design"],
       graphic: "curve"
     },
     {
       id: "build",
-      title: "Build Engaging Touchpoints",
-      text: "We turn strategy into action—fast and efficiently. Whether designing intuitive interfaces, visual identities, or building scalable platforms, we focus on building holistic experiences that are both joyful and effective.",
-      tags: ["UX & UI Design", "Information Architecture", "App & Web Design", "Design Systems", "Content Strategy", "Agile Software Engineering"],
+      title: "Implement Technology Integration",
+      text: "Our team handles the technical heavy lifting, implementing AI tools and data platforms that work. We build custom dashboards, automate repetitive tasks, and create systems that give your team superpowers without requiring them to become data scientists.",
+      tags: ["Platform Development", "API Integration", "Dashboard Creation", "Automation Setup", "Data Pipeline Building", "Quality Assurance"],
       graphic: "circle-top"
     },
     {
       id: "elevate",
-      title: "Elevate Delivery Capabilities",
-      text: "We make sure teams can deliver better outcomes, faster. By evolving collaborative workflows, upskilling teams, and implementing the right tools, we help you scale with confidence and consistency.",
-      tags: ["AI Consulting", "QA & Delivery", "Process Optimization", "Performance Analytics", "Continuous Improvement", "Change Management"],
+      title: "Optimize & Scale Performance",
+      text: "Implementation is just the beginning. We provide ongoing optimization, training, and support to ensure your team maximizes the value of new technologies. As your needs evolve, we help you scale capabilities and stay ahead of industry trends.",
+      tags: ["Team Training", "Performance Monitoring", "Continuous Optimization", "Scale Planning", "Best Practices Development", "Change Management"],
       graphic: "circle-waves"
     }
   ];
@@ -63,7 +63,7 @@
   });
 </script>
 
-<section class="bg-[#1a1a40] text-white py-24 px-6 md:px-12 relative" bind:this={sectionRef}>
+<section class="bg-gray-950 text-white py-24 px-6 md:px-12 relative" bind:this={sectionRef}>
   <div class="max-w-screen-2xl mx-auto flex flex-col md:flex-row gap-12">
     
     <!-- Sticky Navigation -->

@@ -1,19 +1,19 @@
 <script lang="ts">
   const cards = [
     {
-      title: "We're Not Just a Vendor...",
-      subtitle: "We're Your Partner In Crime.",
-      image: "https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&q=80&w=800"
+      title: "We Speak Both Languages...",
+      subtitle: "PR Strategy & Technical Implementation.",
+      image: "/generated/image-team-of-diverse-consultants-collaboratin-1765577879788-5.webp"
     },
     {
-      title: "We Don't Just Follow Trends...",
-      subtitle: "We Shape New Territories.",
-      image: "https://images.unsplash.com/photo-1531482615713-2afd69097998?auto=format&fit=crop&q=80&w=800"
+      title: "We Don't Just Deliver Tools...",
+      subtitle: "We Build Capabilities.",
+      image: "/generated/image-pr-professional-confidently-presenting-a-1765577881831-6.webp"
     },
     {
-      title: "We Don't Play By The Book...",
-      subtitle: "We Write It Together.",
-      image: "https://images.unsplash.com/photo-1552664730-d307ca884978?auto=format&fit=crop&q=80&w=800"
+      title: "We're Not Afraid Of AI...",
+      subtitle: "We Make It Work For You.",
+      image: "/generated/image-data-scientist-explaining-ai-model-resul-1765577883832-7.webp"
     }
   ];
 </script>
@@ -21,7 +21,7 @@
 <section class="py-24 px-6 md:px-12 bg-white">
   <div class="max-w-2xl mb-16">
     <p class="text-xl md:text-2xl leading-relaxed text-gray-800">
-      Collaboration isn't just a buzzword—it's how we roll. We're not here to hand off some cookie-cutter deliverable and disappear; we're in it with you, from day one.
+      We bridge the gap between PR expertise and technical implementation. Our team understands both the art of storytelling and the science of data, helping agencies overcome AI implementation fears with proven results.
     </p>
   </div>
 
